@@ -783,3 +783,9 @@ that `https://sickn33.github.io/agentic-awesome-skills/` and representative
 deep links still redirect to the canonical URL after the DNS change. If GitHub
 Pages stops redirecting them, publish a dedicated redirect artifact there
 before considering the migration complete.
+
+## UI/UX designer APM package
+
+The maintained fork publishes `skills/ui-ux-designer/apm.yml` with its MIT
+license and the missing self-contained interface review playbook.
+Consumers can pin this package subdirectory without importing the full catalog.
